@@ -1,7 +1,8 @@
 # Lunar and Martian Crater Detection and Landing Site Analysis
 **Updates:**
 I added a clearer landing suitability heatmap (changing from 32x32 pixels to 1x1), making the model slower...
-NEWEST VERSION: 1.2
+
+**NEWEST VERSION: landing_site_classifier_model_1.2**
 
 **Objective:**
 Crater detection and bounding box localization
